@@ -1,0 +1,10 @@
+{
+  "name": "nms-rtmp",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "node-media-server": "^2.3.10"
+  }
+}
